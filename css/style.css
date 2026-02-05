@@ -1473,6 +1473,7 @@ body {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
+
 .chocolate-display {
     display: flex;
     flex-direction: column;
@@ -1649,6 +1650,16 @@ body {
     font-size: 1.1rem;
     color: #8B4513;
 }
+.poster-img{
+  width: min(650px, 92vw);
+}
+.poster-img{
+  width: min(900px, 92vw);
+  height: auto;
+  border-radius: 18px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.35);
+}
+
 
 /* ═══════════════════════════════════════════════════════════════════════════════
    SCREEN 7: SPECIAL SURPRISE / QR CODE
